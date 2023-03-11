@@ -1,0 +1,3 @@
+rootProject.name = 'distributed-transactions-spring-kafka'
+include 'order-service', 'base-domain', 'payment-service', 'stock-service'
+
